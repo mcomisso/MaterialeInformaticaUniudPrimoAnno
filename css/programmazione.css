@@ -96,3 +96,6 @@ padding-bottom: 20px;}
     bottom: 10%;
     left: -2%;}
 
+@media (min-width:300px) and (max-width:640px) {
+
+    #main-info h1 {font-size: 30px;}}
