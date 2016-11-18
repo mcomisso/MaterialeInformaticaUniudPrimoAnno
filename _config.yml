@@ -1,0 +1,39 @@
+############################
+# Active Plugins:
+# The following plugins can be enabled because github stores them in every 'github-pages' installation.
+# (aka: don't enable plugin that are not listed here -> )
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jemoji # the most important
+
+############
+# Settings #
+############
+language: en
+title: "Materiale informatica UNIUD"
+
+###############
+# Site params #
+###############
+google_analytics_id: ""
+markdown: kramdown
+kramdown:
+  input: GFM # Github Flavored 
+  auto_ids: true
+
+highlighter: rouge
+
+# Files to exclude from Jekyll "compilation"
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - src
