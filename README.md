@@ -9,7 +9,7 @@ Pian piano cercherò di caricare tutto.
 
 ## Aggiunta di materiale
 
-Potete aggiungere/modificare i file creando una nuova pull request contenente le modifiche o propormi modifiche in classe.
+Potete aggiungere/modificare i file creando una nuova pull request contenente le modifiche, aprire una nuova `issue` o propormi modifiche in classe.
 
 ## Cos'ho utilizzato
 
