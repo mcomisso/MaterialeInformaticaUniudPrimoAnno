@@ -1,0 +1,23 @@
+#############
+# Moduli (corsi)
+
+-
+  title: Programmazione
+  href: "/programmazione"
+  color: cyan
+- 
+  title: Architettura degli elaboratori
+  href: "/architettura-degli-elaboratori"
+  color: light-blue
+-
+  title: Matematica Discreta
+  href: "/matematica-discreta"
+  color: purple
+-
+  title: Coming Soon
+  href: ""
+  color: pink
+-
+  title: Coming Soon
+  href: ""
+  color: amber
